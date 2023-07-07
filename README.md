@@ -16,3 +16,6 @@ Ini adalah proyek UAS Pemrograman Mobile yang menggabungkan penggunaan API denga
    flutter pub get
    ```
 8. API yang saya gunakan adalah `https://www.themoviedb.org/movie`
+
+## Contoh Penggunaan
+![imglogin](image/output.png)
